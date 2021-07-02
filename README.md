@@ -1,8 +1,8 @@
 <h1 align="center">TextReaderByPattern</h1>
-<h2 align="center">Biblioteca para leitura de texto baseada em expressıes regulares</h2>
+<h2 align="center">Biblioteca para leitura de texto baseada em express√µes regulares</h2>
 <br/>
 <br/>
-<p>A Partir de uma entrada de texto s„o identificados os padrıes(Regex) passados e retornado o objeto preenchido.</p>
+<p>A Partir de uma entrada de texto s√£o identificados os padr√µes(Regex) passados e retornado o objeto preenchido.</p>
 <h1 align="center">
-  <img alt="Print" title="#Print" src=".print.png" />
+  <img alt="Print" title="#Print" src="print.png" />
 </h1>

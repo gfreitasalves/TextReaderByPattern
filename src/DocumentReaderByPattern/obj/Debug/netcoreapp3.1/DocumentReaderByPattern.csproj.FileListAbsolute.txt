@@ -1,0 +1,9 @@
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\DocumentReaderByPattern.csproj.CoreCompileInputs.cache
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\DocumentReaderByPattern.AssemblyInfoInputs.cache
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\DocumentReaderByPattern.AssemblyInfo.cs
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\bin\Debug\netcoreapp3.1\DocumentReaderByPattern.deps.json
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\bin\Debug\netcoreapp3.1\DocumentReaderByPattern.dll
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\bin\Debug\netcoreapp3.1\DocumentReaderByPattern.pdb
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\DocumentReaderByPattern.dll
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\DocumentReaderByPattern.pdb
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\DocumentReaderByPattern.csprojAssemblyReference.cache

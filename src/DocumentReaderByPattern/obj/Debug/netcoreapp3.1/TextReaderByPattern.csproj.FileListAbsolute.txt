@@ -1,0 +1,9 @@
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\bin\Debug\netcoreapp3.1\TextReaderByPattern.deps.json
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\bin\Debug\netcoreapp3.1\TextReaderByPattern.dll
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\bin\Debug\netcoreapp3.1\TextReaderByPattern.pdb
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\TextReaderByPattern.csprojAssemblyReference.cache
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\TextReaderByPattern.csproj.CoreCompileInputs.cache
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\TextReaderByPattern.AssemblyInfoInputs.cache
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\TextReaderByPattern.AssemblyInfo.cs
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\TextReaderByPattern.dll
+C:\Users\gilba\source\repos\DocumentReaderByPattern\DocumentReaderByPattern\obj\Debug\netcoreapp3.1\TextReaderByPattern.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReaderByPattern", "DocumentReaderByPattern\TextReaderByPattern.csproj", "{8B4B8E08-9D78-4EFC-9CD6-9BBFDACAA038}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReaderByPattern.Tests", "DocumentReaderByPattern.Tests\TextReaderByPattern.Tests.csproj", "{DA15457F-375D-410E-9B44-0C6125A69FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B4B8E08-9D78-4EFC-9CD6-9BBFDACAA038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B4B8E08-9D78-4EFC-9CD6-9BBFDACAA038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B4B8E08-9D78-4EFC-9CD6-9BBFDACAA038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B4B8E08-9D78-4EFC-9CD6-9BBFDACAA038}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA15457F-375D-410E-9B44-0C6125A69FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA15457F-375D-410E-9B44-0C6125A69FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA15457F-375D-410E-9B44-0C6125A69FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA15457F-375D-410E-9B44-0C6125A69FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3DD20B0-E14D-44AC-8D49-95A735E31A8B}
+	EndGlobalSection
+EndGlobal
